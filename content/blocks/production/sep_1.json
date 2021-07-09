@@ -1,0 +1,38 @@
+name: "sep_no_titanium_req"
+type: "Separator"
+description: "acts like seperator but does not need titanium to build"
+hasLiquids: true
+hasItems: true
+health: 150
+itemCapacity: 30
+liquidCapacity: 50
+
+results: 
+[
+copper/2
+lead/2
+graphite/1
+titanium/1
+]
+
+hasPower: true
+size: 2
+spinnerSpeed: 7
+
+craftTime: 9
+updateEffect: "smeltsmoke"
+consumes: {
+	power: 1
+	liquid: slag/0.15
+	
+}
+requirements: [
+	copper/30
+	silicon/30
+]
+category: "crafting"
+research: "separator"
+
+type: Separator
+size: 2
+
