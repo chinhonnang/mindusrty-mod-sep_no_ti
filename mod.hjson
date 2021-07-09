@@ -1,0 +1,11 @@
+{
+name: "seperator_no_titanium"
+displayName: "seperator no titanium"
+author: "initiate"
+description: "gives a seperator without the need of titanium"
+version: 0.0.0
+minGameVersion:107
+dependencies: [ ]
+hidden: false
+
+}
